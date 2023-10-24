@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kenan!
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently a student at UC Irvine, studying computer science.
-- 📫 How to reach me: kenan.t.can@hotmail.com
+- 📫 How to reach me: kenan.t.can@gmail.com
